@@ -8,6 +8,8 @@
 - 태어난곳 : 부산
 - 사는 곳 : 부산
 
+## 서비스 소개 추가 완료
+
 ## 소스트리 수정
 # 종아하는 캐릭터
 ![피카츄](https://github.com/wjsrudals411/MiniHomepage/blob/main/pika.jpg?raw=true)
